@@ -1,4 +1,4 @@
-# Arduino Smart Lock 🔒
+# Arduino Smart Lock 
 
 This is a basic smart lock system made using Arduino, a keypad, a 16x2 LCD screen and the code written in c++.
 
